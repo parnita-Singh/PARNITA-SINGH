@@ -73,8 +73,7 @@ and a writier
 |---|---|---|---|
 | **Mochi** | AI-powered budget tracker built for the AWS Student Builder Cohort — ranked Top 15/216 | Next.js 15, Tailwind CSS, NextAuth.js, AWS DynamoDB, AWS Amplify, AWS Bedrock | https://github.com/parnita-Singh/MOCHI |
 | **100 Days of Solana** | 100-day challenge learning Solana development, started via an MLH challenge | Solana, Rust *(update if different)* | https://github.com/parnita-Singh/100-days-of-solana |
-| [Stock Market Predictor] | ML-based stock prediction model trained on Google historical data with 75% accuracy | Python, Pandas, Scikit-learn, Matplotlib |
-| [AI Virtual Keyboard]| Real-time gesture-based virtual keyboard using hand landmark detection via webcam | Python, OpenCV, MediaPipe |
+| AI Virtual Keyboard| Real-time gesture-based virtual keyboard using hand landmark detection via webcam | Python, OpenCV, MediaPipe |https://github.com/parnita-Singh/KEY |
 
 ## SOCIALS 
 
