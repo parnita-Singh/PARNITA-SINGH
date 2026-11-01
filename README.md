@@ -18,7 +18,7 @@
 - Open Source Software
 
 ### 🏆 Achievements
-![Hacktoberfest 2026 Completionist++](./hacktoberfest-2026-milestone-completionist-plus-plus.png)
+<img src="./hacktoberfest-2026-milestone-completionist-plus-plus.png" alt="Hacktoberfest 2026 Completionist++" width="200"/>
 
 ### 🛠️ Tech Stack
 
