@@ -17,6 +17,9 @@
 - Computational Social Science
 - Open Source Software
 
+### 🏆 Achievements
+![Hacktoberfest 2026 Completionist++](./hacktoberfest-2026-milestone-completionist-plus-plus.png)
+
 ### 🛠️ Tech Stack
 
 - **Languages**
